@@ -1,2 +1,2 @@
 # Portfolio
-My Projects!
+My Projects & Resume!
